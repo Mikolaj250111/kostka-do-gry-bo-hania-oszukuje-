@@ -1,5 +1,6 @@
 {
     "name": "kostka do gry bo Hania oszukuje ",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
